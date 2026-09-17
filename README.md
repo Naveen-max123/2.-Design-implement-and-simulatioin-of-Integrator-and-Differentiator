@@ -63,26 +63,19 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
-
-
   **MODEL GRAPH:**
-
-
   **TABULATION:**
- 
+ <img width="900" height="1600" alt="WhatsApp Image 2026-09-12 at 8 59 01 PM" src="https://github.com/user-attachments/assets/74303898-4b37-44df-93c2-278cfab2584c" />
 
-**MODEL CALCULATION:**
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
-
+ **TABULATION:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-12 at 8 59 01 PM (1)" src="https://github.com/user-attachments/assets/1d29dcbe-458b-47b9-af89-2901b5445e77" />
 
   **MODEL GRAPH:**
 
-
-  **TABULATION:**
-
- 
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-12 at 8 59 02 PM" src="https://github.com/user-attachments/assets/026b63de-34fe-4d26-84e3-168f08c1cf9c" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,7 +88,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  <img width="1600" height="797" alt="WhatsApp Image 2026-09-05 at 8 02 03 AM" src="https://github.com/user-attachments/assets/924444f9-d88c-4179-8052-5725dc96cc7f" />
+<img width="1600" height="848" alt="WhatsApp Image 2026-09-05 at 8 02 03 AM (1)" src="https://github.com/user-attachments/assets/5e977255-535b-44e0-b981-5d8a533ae16d" />
+<img width="1600" height="837" alt="WhatsApp Image 2026-09-05 at 8 02 01 AM" src="https://github.com/user-attachments/assets/6bc1b31f-db9b-4c32-b18a-e93b1f3d9da0" />
+<img width="1600" height="820" alt="WhatsApp Image 2026-09-05 at 8 02 04 AM (2)" src="https://github.com/user-attachments/assets/d1069910-25df-4280-aea4-589ae4fc1d43" />
+
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
